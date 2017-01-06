@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "411194453971",
+    "firebase_url": "https://surftime-152920.firebaseio.com",
+    "project_id": "surftime-152920",
+    "storage_bucket": "surftime-152920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411194453971:android:d4391c32cb8d35b1",
+        "android_client_info": {
+          "package_name": "com.nmn.surftime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411194453971-7np4vflt8ke18blhmpucr57k4hu439cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwqC3xhm9eTLCnTthgtQUAbkqJvOMIDoQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
